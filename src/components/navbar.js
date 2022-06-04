@@ -1,4 +1,4 @@
-import "./Navbar.css";
+import "./navbar.css";
 
 const Navbar = () => {
 
@@ -13,3 +13,4 @@ const Navbar = () => {
         </nav>
     )
 }
+export default Navbar;
